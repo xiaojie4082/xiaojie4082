@@ -1,4 +1,16 @@
-<h1 align="center">嗨👋，我是 xiaojie4082</h1>
+## XIAOJIE4082
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaojie4082&show_icons=true&locale=en" alt="xiaojie4082" /></p>
+Hi, I'm XIAOJIE!
 
+## 🧠 That I know and use
+### 📚 Langues and Frameworks
+- 
+
+### 🔧 Tool
+- 
+
+## 💡 Projects
+- 
+
+## 🔗 Get in touch
+- Personal site: https://xiaojie4082.cc
